@@ -5,3 +5,4 @@ Facts:
 - Cars are driving by on a 5% chance
 
 ## Street Layout
+![Street Layout](street_layout.png)
