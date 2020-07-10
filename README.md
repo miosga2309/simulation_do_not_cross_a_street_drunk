@@ -6,3 +6,25 @@ Facts:
 
 ## Street Layout
 ![Street Layout](street_layout.jpg)
+
+## Task A
+![Task A](TaskA.PNG)
+![a1](a1.jpg)
+![a10](a10.jpg)
+![a100](a100.jpg)
+![a1000](a1000.jpg)
+
+## Task B
+![Task B](TaskB.PNG)
+![b1](b1.jpg)
+![b10](b10.jpg)
+![b100](b100.jpg)
+![b1000](b1000.jpg)
+
+## Task C
+![Task C](TaskC.PNG)
+![c1](c1.jpg)
+![c10](c10.jpg)
+![c100](c100.jpg)
+![c1000](c1000.jpg)
+
